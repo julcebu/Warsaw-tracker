@@ -14,6 +14,6 @@ campus-ai-assistant/
 **Julia Cebula**
 Wydział Matematyki i Nauk Informacyjnych  
 Politechnika Warszawska
-**Gabriela Warchoł**
+\\ **Gabriela Warchoł**
 Wydział Matematyki i Nauk Informacyjnych  
 Politechnika Warszawska

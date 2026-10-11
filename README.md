@@ -11,7 +11,6 @@ campus-ai-assistant/
 └── src/
 ```
 ## Autorki
-**Julia Cebula**
-**Gabriela Warchoł**
+**Julia Cebula, Gabriela Warchoł**
 Wydział Matematyki i Nauk Informacyjnych  
 Politechnika Warszawska

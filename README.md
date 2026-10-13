@@ -6,7 +6,7 @@ Projekt będzie rozwijany etapowo.
 - [Wizja](docs/vision.md)
 ## Struktura
 ```text
-campus-ai-assistant/
+Warsaw-tracker/
 ├── README.md
 ├── docs/
 │   └── vision.md

@@ -4,7 +4,7 @@
 |---|---|
 | Użytkownik | Osoba korzystająca z aplikacji w celu zaplanowania pieszej wycieczki po Warszawie. |
 | Plan wycieczki | Uporządkowane zestawienie miejsc do odwiedzenia i zaplanowanych przerw, wraz z ich kolejnością oraz szacowanym czasem i kosztem wycieczki.|
-| Punkt startowy | Jedna z dostępnych do wyboru lokalizacji w Warszawie, w których użytkownik zamierza rozpocząć wycieczkę. |
+| Punkt startowy | Jedna z dostępnych do wyboru lokalizacji w Warszawie, w której użytkownik zamierza rozpocząć wycieczkę. |
 | Preferencje użytkownika | Parametry określone przez użytkownika, obejmujące punkt startowy, zainteresowania, dostępny czas, budżet oraz opcje dotyczące posiłków i toalet publicznych. |
 | Atrakcja turystyczna | Miejsce o wartości historycznej, architektonicznej, kulturalnej lub rekreacyjnej, które może zostać uwzględnione w planie wycieczki. |
 | Trasa | Przebieg drogi pieszej łączącej punkt startowy z kolejnymi miejscami uwzględnionymi w planie wycieczki. |

@@ -9,7 +9,9 @@ Projekt będzie rozwijany etapowo.
 Warsaw-tracker/
 ├── README.md
 ├── docs/
-│   └── vision.md
+|  ├── glossary.md
+|  ├── requirements.md
+│  └── vision.md
 └── src/
 ```
 ## Autorki

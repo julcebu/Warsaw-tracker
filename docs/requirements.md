@@ -1,11 +1,28 @@
 # Wymagania 
 
-- System umożliwia użytkownikowi wybór punktu startowego spośród kilku ustalonych lokalizacji w Warszawie.
-- System umożliwia użytkownikowi określenie preferowanych kategorii atrakcji turystycznych.
-- System umożliwia użytkownikowi określenie, czy plan ma uwzględniać przerwę na posiłek.
-- System umożliwia uwzględnienie przystanków przeznaczonych na odpoczynek lub skorzystanie z toalety.
-- System umożliwia użytkownikowi określenie maksymalnego budżetu wycieczki.
-- System umożliwia użytkownikowi określenie dostępnego czasu na wycieczkę.
-- System generuje plan wycieczki na podstawie parametrów określonych przez użytkownika.
-- System wyznacza trasę łączącą punkt startowy z wybranymi atrakcjami turystycznymi.
-- System wyświetla przebieg wygenerowanej trasy na mapie.
+### Określenie preferencji użytkownika
+
+- **W1** System umożliwia użytkownikowi wybór punktu startowego spośród ustalonych lokalizacji w Warszawie.
+- **W2** System umożliwia użytkownikowi wybór jednej lub kilku preferowanych kategorii atrakcji turystycznych.
+- **W3** System umożliwia użytkownikowi określenie, czy plan wycieczki ma uwzględniać przerwę na posiłek.
+- **W4** System umożliwia użytkownikowi określenie, czy chce wyświetlać pokazanie na mapie toalet publicznych.
+- **W5** System umożliwia użytkownikowi określenie maksymalnego budżetu wycieczki obejmującego bilety wstępu oraz ewentualne posiłki.
+- **W6** System umożliwia użytkownikowi określenie dostępnego czasu na wycieczkę.
+
+### Generowanie planu wycieczki
+
+- **W7** System generuje propozycję planu pieszej wycieczki po Warszawie na podstawie parametrów określonych przez użytkownika.
+- **W8** System wyznacza trasę piesząą łączącą punkt startowy z wybranymi atrakcjami oraz ustala kolejność ich odwiedzania.
+- **W9** System szacuję łączny czas wycieczki, uwzględnia czas przemieszczania się, odwiedzania miejsc oraz zaplanowanych przerw.
+- **W10** System szacuje koszt wycieczki obejmujący bilety wstępu oraz zaplanowany posiłek.
+- **W11** System uwzględnia określony przez użytkownika czas i budżet podczas generowania planu.
+- **W12** System proponuje punkty gastronomiczne w pobliżu planowanej trasy, uwzględniając budżet po odliczeniu szacowanych kosztów biletów wstepu, jeśli użytkownik wybrał przerwę na posiłek.
+
+### Prezentacja planu
+
+- **W13** System wyświetla przebieg wygenerowanej proponowanej trasy na mapie.
+- **W14** System przedstawia wygenerowany plan w formie uporządkowanej listy miejsc do odwiedzenia.
+- **W15** System umożliwia użytkownikowi zapoznanie się z opisem i ciekawostkawmi dotyczącymi miejsc uwzględnionych w planie.
+- **W16** System prezentuje szacowany łączny czas i koszt wycieczki.
+- **W17** System umożliwia wyświetlenie lokalizacji punktów gastronomicznych w pobliżu proponowanej trasy, jeśli użytkownik wybrał taką opcję.
+- **W18** System umożliwia wyświetlenie lokalizacji toalet publicznych w pobliżu proponowanej trasy, jeśli użytkownik wybrał taką opcję.
